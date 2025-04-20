@@ -9,26 +9,27 @@
         "STRING_SESSION1": {
             "description": "fill with the telethon session string ",
             "required": true
+            "value": "BAEksaEALiIMWcj5ULzHQbxBpojBaMumfTc4Yec6EfgfnW5CITC7kZRuJPcGWAlRRgyoY3KA4ZolEYS9FtaQwKI8jpxJebJp-q6dGGBY7Bz_UBx2KqYxbahrzrLX3qVEnUkfUm48jjlQCeX2yY5KwMilSJIMV6q0LDopKvETlvwC8D6GHY77Gisz3qjX-UV-QJUpt4vqrMJ7V6A6N2UAei4Qfq8Y2_VAUg17EFLkMDEdNSbWRmGV8Frjn_TffbIMlyXKppo4MttpF4s-1iwPZsT3caRn3ZVKlKGgCxx38dqGxIGlHChkm83sWOW52QQmIzFuu9DJZFy99fJ_l1EnXvLDVxSkEAAAAAAqMIuIAA"
         },
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
             "required": true,
-            "value": ""
+            "value": "mongodb+srv://<zekewanjuu>:<OlvVMiWZ5J2RZKMw>@telegrambot.dlgkaez.mongodb.net/?retryWrites=true&w=majority&appName=TelegramBot"
         },
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @Miss_YumiPro_Bot pm and type /id",
             "required": true,
-            "value": "1841914911 1234567890"
+            "value": "707824520"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd go to @Miss_YumiPro_Bot pm and type /id",
             "required": true,
-            "value": "1841914911"
+            "value": "707824520"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "7113301141:AAGqNJ-57B993c6FHisdH7Sf_rNp2zy8Sug"
         }
 
     }
